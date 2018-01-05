@@ -1,4 +1,4 @@
-# Networks-2017
+# Networks
 Computer Networks, Wellesley College, Fall 2017
 
 Course Objectives:
